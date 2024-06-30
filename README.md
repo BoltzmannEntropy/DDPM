@@ -1,7 +1,7 @@
 # Welcome to the Book: The Art and Science of Diffusion Models in Generative AI 
 (Expected publication date: **end of 2025**)
 
-<img src="./cover.png" alt="Book cover" width="50%">
+<img src="./cover.png" alt="Book cover" width="75%">
 
 ## Preface
 This textbook is expertly crafted for **graduate students** in physics and computer science, offering a semester-long, thorough exploration of Denoising Diffusion Probabilistic Models (DDPMs) within the expansive field of generative AI. Unlike conventional texts that follow a rigid definition-theorem-proof format, **this book adopts a more relaxed and conversational tone**, incorporating extensive commentary, motivation, and explanations to enhance understanding and engagement.
