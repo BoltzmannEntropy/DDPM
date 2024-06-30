@@ -6,7 +6,16 @@
 ## Preface
 This textbook is expertly crafted for **graduate students** in physics and computer science, offering a semester-long, thorough exploration of Denoising Diffusion Probabilistic Models (DDPMs) within the expansive field of generative AI. Unlike conventional texts that follow a rigid definition-theorem-proof format, **this book adopts a more relaxed and conversational tone**, incorporating extensive commentary, motivation, and explanations to enhance understanding and engagement.
 
-Since the latter part of 2022, the term Generative Artificial Intelligence, or GenAI, has woven itself into the fabric of our daily discussions. Despite its frequent usage, a clear and precise definition of GenAI often remains elusive. Many discussions simply refer to well-known systems like ChatGPT or **Stable Diffusion, a distinguished DDPM model**, as examples of the concept. bout GenAI, and if so, what contributes to the confusion surrounding diffusion and other models? Upon deeper analysis, it becomes evident that GenAI is often used as a catch-all term, primarily by laypeople or academics from fields such as philosophy, to broadly classify this evolving area of technology. This suggests that the term is less about identifying specific technologies or methods, and more about capturing a general sense of the field. **However, it is important to note that in this book, our focus is specifically on diffusion models**. We do not address the wider scope of GenAI, instead concentrating on providing a thorough understanding of diffusion models alone.
+Until recently, diffusion models were a niche known only to a **select group of scientists and engineers**. Generative AI, a field heavily reliant on these models, requires an intricate
+understanding of mathematics, physics, stochastic processes, deep learning, and computer science.
+
+This book delves deeply into diffusion models within Generative AI, particularly focusing on **Denoising Diffusion Probabilistic Models (DDPMs)**. While other generative models like Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and flow-based models have advanced the generation of high-quality samples, they each have significant drawbacks. GANs can experience unstable training and limited output diversity;
+VAEs depend on complex surrogate loss functions, complicating optimization; and flow models necessitate specialized, reversible architectures.
+
+Diffusion models, drawing inspiration from non-equilibrium thermodynamics, present a robust alternative by effectively addressing these challenges. **This volume stands out by
+concentrating solely on diffusion models, offering a unique perspective rarely found in other texts.** This focused approach not only simplifies complex ideas for a broader audience
+but also pushes the boundaries of what AI can achieve in modern industries and research. As such, this book is an essential resource for anyone seeking to understand the current and
+future impacts of technology-driven creative processes in Generative AI.
 
 
 ## Educational Goals
