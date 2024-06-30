@@ -4,12 +4,10 @@
 ![Book cover](./cover.png)
 
 ## Preface
-
-Since the latter part of 2022, the term Generative Artificial Intelligence, or GenAI, has woven itself into the fabric of our daily discussions. Despite its frequent usage, a clear and precise definition of GenAI often remains elusive. Many discussions simply refer to well-known systems like ChatGPT or **Stable Diffusion, a distinguished DDPM model**, as examples of the concept. This raises the question: Is the absence of a precise definition a reflection of its perceived irrelevance, or are there other reasons behind this conceptual vagueness? Furthermore, are there prevailing misunderstandings in our discussions about GenAI, and if so, what contributes to the confusion surrounding diffusion and other models?
-
-Upon deeper analysis, it becomes evident that GenAI is often used as a catch-all term, primarily by laypeople or academics from fields such as philosophy, to broadly classify this burgeoning area of technology. This suggests that the term is less about identifying specific technologies or methods, and more about capturing a general sense of the field. **However, it is important to note that in this book, our focus is specifically on diffusion models**. We do not address the wider scope of GenAI, instead concentrating on providing a thorough understanding of diffusion models alone.
-
 This textbook is expertly crafted for **graduate students** in physics and computer science, offering a semester-long, thorough exploration of Denoising Diffusion Probabilistic Models (DDPMs) within the expansive field of generative AI. Unlike conventional texts that follow a rigid definition-theorem-proof format, **this book adopts a more relaxed and conversational tone**, incorporating extensive commentary, motivation, and explanations to enhance understanding and engagement.
+
+Since the latter part of 2022, the term Generative Artificial Intelligence, or GenAI, has woven itself into the fabric of our daily discussions. Despite its frequent usage, a clear and precise definition of GenAI often remains elusive. Many discussions simply refer to well-known systems like ChatGPT or **Stable Diffusion, a distinguished DDPM model**, as examples of the concept. bout GenAI, and if so, what contributes to the confusion surrounding diffusion and other models? Upon deeper analysis, it becomes evident that GenAI is often used as a catch-all term, primarily by laypeople or academics from fields such as philosophy, to broadly classify this evolving area of technology. This suggests that the term is less about identifying specific technologies or methods, and more about capturing a general sense of the field. **However, it is important to note that in this book, our focus is specifically on diffusion models**. We do not address the wider scope of GenAI, instead concentrating on providing a thorough understanding of diffusion models alone.
+
 
 ## Educational Goals
 
