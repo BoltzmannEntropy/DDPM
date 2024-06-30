@@ -1,4 +1,5 @@
-# Welcome to the Book: The Art and Science of Diffusion Models in Generative AI
+# Welcome to the Book: The Art and Science of Diffusion Models in Generative AI 
+(Expected publication date: **end of 2025**)
 
 by Shlomo Kashani
 
