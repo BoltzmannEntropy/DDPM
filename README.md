@@ -26,6 +26,8 @@ future impacts of technology-driven creative processes in Generative AI.
 
 **Rich with a vast array of fully solved examples and exercises** of varying complexity, this manuscript integrates these into the narrative to enhance and assess the reader's understanding extensively. **These exercises are central to the book's structure**, often referenced in subsequent discussions to encourage a dynamic and interactive learning environment.
 
+<img src="./back.png" alt="Book cover" width="75%">
+
 Inspired by the **renowned Schaum's Outline series**, the text marries rigorous theoretical exposition with practical applications. This methodology is crafted to reinforce theoretical knowledge through **hands-on problem-solving**, thereby enhancing comprehension.
 
 ## Methodological Approach
