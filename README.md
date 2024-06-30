@@ -9,6 +9,7 @@ This textbook is expertly crafted for **graduate students** in physics and compu
 Until recently, diffusion models were a niche known only to a **select group of scientists and engineers**. Generative AI, a field heavily reliant on these models, requires an intricate
 understanding of mathematics, physics, stochastic processes, deep learning, and computer science.
 
+![Book cover](./diff.png)
 This book delves deeply into diffusion models within Generative AI, particularly focusing on **Denoising Diffusion Probabilistic Models (DDPMs)**. While other generative models like Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and flow-based models have advanced the generation of high-quality samples, they each have significant drawbacks. GANs can experience unstable training and limited output diversity;
 VAEs depend on complex surrogate loss functions, complicating optimization; and flow models necessitate specialized, reversible architectures.
 
