@@ -2,7 +2,7 @@
 
 by Shlomo Kashani
 
-![Book cover](./assets/cover.png)
+![Book cover](./cover.png)
 
 ## Preface
 
