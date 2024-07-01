@@ -41,21 +41,6 @@ Each section of each chapter is organized to include:
 
 ### Example Problem: Standard Brownian Motion and Stochastic Integrals
 
-**Concept: Standard Brownian Motion and Stochastic Integrals**
-
-Standard Brownian motion is a key element in stochastic calculus and is widely used to model financial variables such as stock prices. It exemplifies the random motion of particles in a fluid medium.
-
-**Contextual Description:** Assume \( \{B_t, t \geq 0\} \) represents a standard Brownian motion starting at \( B_0 = 0 \). The task is to find an expression for the integral
-$$
-\int_0^t \sin(B_s) \, dB_s
-$$
-avoiding the use of Itô integrals.
-
-**Quantitative Question:** Derive an expression for the integral \( \int_0^t \sin(B_s) \, dB_s \) given the standard Brownian motion \( \{B_t, t \geq 0\} \) starting at \( B_0 = 0 \), without employing Itô integrals.
-
-#### Answer
-
-The problem is solved by applying Itô's lemma, leading to a detailed mathematical derivation. This showcases the methodological depth this text offers in discussing stochastic integrals and their applications.
 
 
 ## Programming Mini-Projects
