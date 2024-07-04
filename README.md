@@ -21,6 +21,14 @@ concentrating solely on diffusion models, offering a unique perspective rarely f
 but also pushes the boundaries of what AI can achieve in modern industries and research. As such, this book is an essential resource for anyone seeking to understand the current and
 future impacts of technology-driven creative processes in Generative AI.
 
+The book begins with fundamental concepts, such as the introduction of Brownian motion—the simplest form of diffusion—and gradually advances to more complex diffusion equations. This structured approach ensures that readers develop a profound understanding of both forward and backward diffusion processes, providing a solid foundation for advanced studies and applications.
+
+The book offers a detailed exploration of key concepts including Brownian motion, Itô's lemma, Stochastic Differential Equations (SDEs), and the significant role of stochastic processes in artificial intelligence. It provides an exhaustive introduction to diffusion processes, a meticulous examination of DDPMs, and a chapter dedicated to the deep learning architectures fundamental to DDPMs. The narrative is **enriched with a plethora of solved problems** and numerous **programming mini-projects**, concentrating mainly on results that hold substantial relevance for practical implementations. As an extensive graduate-level textbook and reference, it embraces the philosophy that the most effective way to learn about DDPM's is through its application, illustrated through extensive examples that demonstrate the theory in real-world scenarios.
+
+Each chapter of this book integrates theoretical discourse with practical applications, culminating in mini programming projects **using Python**. These projects allow readers to simulate basic theoretical concepts, such as a random walk or Brownian motion, and progress to more sophisticated implementations, such as developing a DDPM. This hands-on approach not only solidifies learning through active engagement but also arms students and professionals with the skills to effectively deploy these advanced models in various real-world contexts.
+
+Furthermore, the text methodically covers topics such as Stochastic Differential Equations (SDEs), Brownian Motion, martingales, and Itô’s lemma. These topics are interlinked within the context of diffusion models, encouraging readers to revisit earlier discussions to fully grasp the complex interrelationships among these concepts. To ensure clarity and accessibility, the text intentionally omits some more esoteric topics, instead focusing on providing foundational knowledge and deep insights essential for a thorough understanding of DDPMs.
+
 
 ## Educational Goals
 
