@@ -1,5 +1,5 @@
 # Welcome to the Book: The Art and Science of Diffusion Models in Generative AI 
-(Expected publication date: **end of 2025**)
+(Draft, WIP, Expected publication date: **end of 2025**)
 
 <img src="./cover.png" alt="Book cover" width="60%">
 
